@@ -56,7 +56,7 @@ In addition to the **5 mandatory vulnerabilities**, the repository contains **5 
 
 ## Instructions for GitHub Tracking  
 
-1. **Create a new repository on GitHub** (private).  
+1. **Create a new repository on GitHub** (cis4340a).  
 2. **Upload the non-compliant code** in a branch named `edits`.  
 3. **Merge `edits` into `master`** to track the initial version.  
 4. **Fix the vulnerability** in master branch, ensuring the corrected version replaces the vulnerable code.

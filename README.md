@@ -7,9 +7,7 @@ This project aims to identify and fix **Java security vulnerabilities** based on
 
 ## Assignment Overview  
 1. **Upload the non-compliant (vulnerable) code first** and commit it to the repository.  
-2. **Edit the file to fix the vulnerability** and commit the corrected version in a separate branch.  
-3. **Merge the fix into `main`**, ensuring GitHub tracks all changes.  
-4. **Submit the GitHub repository link via WebCourses**.
+2. **Edit the file to fix the vulnerability** and commit the corrected version in master branch.  
 
 ---
 
